@@ -10,8 +10,8 @@ namespace AAPM.SS._2024_CodeFlows
     {
         public override string Generate()
         {
-             return "incomplete (Group 14)";
-            //return "and";
+             //return "incomplete (Group 14)";
+            return "and";
         }
     }
 }

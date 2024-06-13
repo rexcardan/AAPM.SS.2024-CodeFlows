@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace AAPM.SS._2024_CodeFlows
 {
-    public class Template
+    public abstract class Template
     {
-        public string Generate()
-        {
-            return "Hello";
-        }
+        public abstract string Generate();
     }
 }
